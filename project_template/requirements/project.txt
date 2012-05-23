@@ -1,1 +1,1 @@
-armstrong==12.03.0
+armstrong>=12.03.1,<12.04
